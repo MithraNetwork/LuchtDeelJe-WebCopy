@@ -56,8 +56,6 @@ Lucht deel je is opgericht door **Dirk Littooij**.
 
 In de afgelopen twee jaar sprak hij meer dan 500 keer met mensen en organisaties over schone lucht. Uit al die gesprekken haalt hij één les: de weg naar schone lucht begint bij een goed gesprek, en kleine stappen tellen. Daarom deelt hij wat hij ontdekt op deze site, in gewone taal en zonder schuldgevoel.
 
-[CONCEPT: pas deze alinea aan of vul haar aan met wat je over jezelf wilt delen.]
-
 Lees ook het [interview met Dirk bij het Longfonds](https://www.longfonds.nl/actiepakket/interview-dirk-littooij).
 
 Wil je contact, of wil je dat we komen vertellen? Mail naar [info@luchtdeelje.nl](mailto:info@luchtdeelje.nl).
