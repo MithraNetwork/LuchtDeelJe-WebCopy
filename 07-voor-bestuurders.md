@@ -2,9 +2,10 @@
 
 ## Wat een gemeente kan doen voor schonere lucht
 
-Je hoeft als gemeente niet te wachten op Den Haag om iets te doen aan de lucht in je wijken. Op deze pagina staat wat je juridisch kunt regelen, wat andere gemeenten doen, wat werkt en wat niet, en hoe je hulp krijgt. Alles met bron, zodat je het kunt gebruiken in een raadsvoorstel.
+Je hoeft als gemeente niet te wachten op Den Haag om iets te doen aan de lucht in je wijken. Op deze pagina staat wat een gemeente nu al kan doen.
 
-**Samenvatting op één pagina:** [DOWNLOAD-LINK EENPAGINA-SAMENVATTING INVOEGEN]
+
+[Schone Lucht Akkoord](https://schoneluchtakkoord.nl/sla/deelnemers/)
 
 ---
 
