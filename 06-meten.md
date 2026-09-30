@@ -16,11 +16,11 @@ Hier zie je wat er al gemeten wordt, hoe je zelf kunt meten, en waar je op moet 
 
 ## 2. De Lucht deel je-meter
 
-[WIETSE: hier komt de weergave van de luchtmeter, zoals op luchtdeelje.nl.]
+[Binnenkort]
 
 Onze meters zijn indicatief. Ze laten goed zien wanneer en waar de lucht slechter wordt, bijvoorbeeld op een windstille winteravond. Ze zijn geen vervanging van de officiële metingen van het RIVM.
 
-## 3. Meet zelf
+## 3. Andere professionele initiatieven met ervaring
 
 Wil je zelf een meter in je straat? Dat kan op verschillende manieren:
 
