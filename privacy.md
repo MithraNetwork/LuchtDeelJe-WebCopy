@@ -1,12 +1,12 @@
 # Privacyverklaring
 
-Laatst bijgewerkt: [DATUM INVULLEN]
+Laatst bijgewerkt: 05.09.2026
 
 Lucht deel je vindt jouw privacy belangrijk. We verzamelen zo min mogelijk persoonsgegevens en gebruiken ze alleen waarvoor je ze aan ons geeft. Hieronder lees je wat we doen.
 
 ## Wie is verantwoordelijk?
 
-[NAAM VAN DE STICHTING INVULLEN NA OPRICHTING], [ADRES], KvK-nummer [INVULLEN].
+Stichting Lucht Deel je
 
 Vragen over privacy? Mail naar [info@luchtdeelje.nl](mailto:info@luchtdeelje.nl).
 
