@@ -1,12 +1,12 @@
 # Over ons
 
-## Waarom Lucht deel je bestaat
+## Waarom Lucht Deel Je bestaat
 
 Schone lucht voelt niet als een voordeel. Slechte lucht voelt niet als een directe bedreiging. Daarom onderschatten we hoe belangrijk lucht is.
 
 De grootste gezondheidsrisico's zijn vaak niet de risico's die je voelt, maar de risico's die je niet merkt. Mensen denken na over eten en bewegen, omdat ze daar elke dag keuzes in maken. Over lucht denken ze niet na, omdat ze geen keuze denken te hebben. Maar juist lucht adem je zo'n 20.000 keer per dag in.¹
 
-Lucht deel je bestaat om dat zichtbaar en bespreekbaar te maken, dichtbij, in de straat waar je woont.
+Lucht Deel Je bestaat om dat zichtbaar en bespreekbaar te maken, dichtbij, in de straat waar je woont.
 
 ---
 
@@ -24,11 +24,11 @@ Wij willen fijnstof in de leefomgeving zichtbaar en bespreekbaar maken, bewoners
 
 ## Wat we doen
 
-Lucht deel je is een onafhankelijk platform dat het belang van lokale schone lucht op een laagdrempelige manier onder de aandacht brengt.
+Lucht Deel Je is een onafhankelijk platform dat het belang van lokale schone lucht op een laagdrempelige manier onder de aandacht brengt.
 
 ### Delen
 
-We delen kennis in gewone taal, op deze site en in gesprekken. De afgelopen twee jaar voerde Dirk Littooij, de oprichter, al meer dan 500 gesprekken met mensen en organisaties over schone lucht, nog voordat Lucht deel je bestond.
+We delen kennis in gewone taal, op deze site en in gesprekken. De afgelopen twee jaar voerde Dirk Littooij, de oprichter, al meer dan 500 gesprekken met mensen en organisaties over schone lucht, nog voordat Lucht Deel Je bestond.
 
 ### Verbinden
 
@@ -42,17 +42,17 @@ Meten maakt lucht zichtbaar. De eerste meters zijn inmiddels uitgedeeld. We werk
 
 ## Onafhankelijk en laagdrempelig
 
-Lucht deel je is onafhankelijk. We laten ons leiden door één doel: schone lucht dichtbij mensen.
+Lucht Deel je is onafhankelijk. We laten ons leiden door één doel: schone lucht dichtbij mensen.
 
 Voor de wetenschap verwijzen we graag naar het RIVM en andere kennisinstellingen. Wie zelf sensoren wil bouwen, vindt goede projecten bij Scapeler en Sensor.Community. Bij Lucht deel je kun je zonder voorkennis beginnen: uitleg in gewone taal en een meter die we zo eenvoudig en betaalbaar mogelijk willen maken. Want hoe lager de drempel, hoe meer mensen zelf iets doen aan de lucht om hen heen.
 
-Lucht deel je wordt tot nu toe gedragen door giften. Als er later sensoren worden verkocht, dan alleen voor het doel, en gaat de winst volledig terug naar Lucht deel je.
+Lucht deel Je wordt tot nu toe gedragen door giften. Als er later sensoren worden verkocht, dan alleen voor het doel, en gaat de winst volledig terug naar Lucht deel je.
 
 ---
 
 ## Wie zit erachter
 
-Lucht deel je is opgericht door **Dirk Littooij**.
+Lucht Deel Je is opgericht door **Dirk Littooij**.
 
 In de afgelopen twee jaar sprak hij meer dan 500 keer met mensen en organisaties over schone lucht. Uit al die gesprekken haalt hij één les: de weg naar schone lucht begint bij een goed gesprek, en kleine stappen tellen. Daarom deelt hij wat hij ontdekt op deze site, in gewone taal en zonder schuldgevoel.
 
