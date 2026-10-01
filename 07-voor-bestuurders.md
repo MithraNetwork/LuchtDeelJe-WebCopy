@@ -13,7 +13,7 @@ Je hoeft als gemeente niet te wachten op Den Haag om iets te doen aan de lucht i
 
 Wat het RIVM voor heel Nederland berekent, zegt weinig over wat er in een straat gebeurt.
 
-- Gemiddeld levert houtstook ruim 5% van het PM2,5 in de buitenlucht. In steden is dat tot ruim 8%, en op winteravonden kan het lokaal oplopen tot een veelvoud daarvan.¹ Gemiddelden zeggen weinig over diegene naast of vlakbij iemand woont die houtstookt. En allemaal iemand die naast meerdere mensen woont die hout stoken.
+- Gemiddeld levert houtstook ruim 5% van het PM2,5 in de buitenlucht. In steden is dat tot ruim 8%, en op winteravonden kan het lokaal oplopen tot een veelvoud daarvan.¹ Gemiddelden zeggen weinig over de luchtkwaliteit van diegene naast of vlakbij iemand woont die hout stookt. En allemaal over luchtkwaliteit van iemand die naast meerdere mensen woont die hout stoken.
 - Volgens het RIVM veroorzaakte houtstook door huishoudens in 2024 24% van de PM2,5-uitstoot en 64% van de uitstoot van benzo[a]pyreen, een kankerverwekkend PAK.²
 - Het RIVM schat dat houtstook ongeveer 6% bijdroeg aan het gezondheidsverlies door Nederlandse bronnen (2016, en ongeveer 5% verwacht in 2030). Wegverkeer is met ongeveer een derde de grootste bron.³ Houtstook is dus niet het grootste probleem in het landelijk gemiddelde, maar wel een van de bronnen waar een gemeente zelf invloed op heeft.
 - In een pilot van TNO overschreed het fijnstof in en rond Heemskerk in de winter van 2023-2024 op 27 dagen de WHO-richtwaarde. Op 9 van die dagen gebeurde dat niet zonder houtstook.⁴
