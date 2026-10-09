@@ -14,17 +14,11 @@ Hier zie je wat er al gemeten wordt, hoe je zelf kunt meten, en waar je op moet 
 - **[Samen Meten](https://www.samenmeten.nl)** van het RIVM laat metingen zien die inwoners zelf in hun buurt doen. Bekijk het [dataportaal](https://samenmeten.rivm.nl/dataportaal/).
 - Ook in jouw regio zijn er misschien inwoners die meten. Op onze pagina [Links en netwerken](/links-en-netwerken) staan lokale meetnetwerken.
 
-## 2. De Lucht deel je-meter
-
-[Binnenkort]
-
-Onze meters zijn indicatief. Ze laten goed zien wanneer en waar de lucht slechter wordt, bijvoorbeeld op een windstille winteravond. Ze zijn geen vervanging van de officiële metingen van het RIVM.
-
-## 3. Andere professionele initiatieven met ervaring
+## 2. Andere professionele initiatieven met ervaring
 
 Wil je zelf een meter in je straat? Dat kan op verschillende manieren:
 
-- **[Scapeler](https://www.scapeler.com/)** heeft de ApriSensor: een kit waarmee je fijnstof en weergegevens meet. Scapeler is ontstaan uit een buurtinitiatief in de Amsterdamse Houthavens.
+- **[Scapeler](https://www.scapeler.com/)** heeft de ApriSensor: een kit waarmee je fijnstof en weergegevens meet. 
 - **[Sensor.Community](https://sensor.community/nl/)** is een open, wereldwijd netwerk van mensen die zelf een fijnstofsensor bouwen en de gegevens delen. De bouwbeschrijving is openbaar, en op [Samen Meten](https://www.samenmeten.nl/sensorcommunity) lees je hoe je in Nederland meedoet.
 - **Lucht deel je-meter.** We werken eraan dat meten zo eenvoudig en betaalbaar mogelijk wordt. Bestellen kan binnenkort.
 
